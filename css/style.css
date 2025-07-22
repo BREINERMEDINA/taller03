@@ -1,0 +1,43 @@
+caption{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    width: 50%;
+    height: auto;
+}
+.c1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: coral;
+}
+.orange{
+    background-color: rgb(255, 136, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.amber{
+    background-color: rgb(252, 255, 89);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.mat{
+    background-color: rgb(55, 192, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.ciencias{
+    background-color: rgb(92, 255, 92);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.artes{
+    background-color: rgb(158, 74, 207);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.fisica{
+    background-color: rgb(80, 98, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
